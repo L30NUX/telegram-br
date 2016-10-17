@@ -65,6 +65,8 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
 - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
 
+### MacOS X
+- [Hackintosh Br](https://telegram.me/hackintoshbr)
 
 ### WINDOWS
 - [POWERSHELL BR](https://telegram.me/powershellbr)
